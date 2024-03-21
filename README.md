@@ -23,23 +23,23 @@
 <h2>Features</h2>
 <ul>
   <li><b>Add Element to Queue</b>: Enter an element in the input field and click "Add" to add it to the queue.</li>
-  <li><b>Remove Element from Queue</b: Click "Remove" to remove the element at the front of the queue.</li>
-  <li><b>View Queue Size</b: The current size of the queue is displayed.</li>
-  <li><b>Visual Representation</b: The queue is visually represented, making it easier to understand the FIFO principle.</li>
+  <li><b>Remove Element from Queue</b>: Click "Remove" to remove the element at the front of the queue.</li>
+  <li><b>View Queue Size</b>: The current size of the queue is displayed.</li>
+  <li><b>Visual Representation</b>: The queue is visually represented, making it easier to understand the FIFO principle.</li>
 </ul>
 
 <h2>Technologies Used</h2>
 <ul>
   <li><b>HTML/CSS</b>: For structuring and styling the simulation interface.</li>
-  <li><b>JavaScript</b: For implementing the queue data structure and managing interactions.</li>
+  <li><b>JavaScript</b>: For implementing the queue data structure and managing interactions.</li>
 </ul>
     
 <h2>Files</h2>
 <ul>
   <li><b>index.html</b>: he main HTML file containing the structure of the simulation interface.</li>
-  <li><b>font.css</b: The CSS file contains local fonts.</li>
-  <li><b>main.css</b: The CSS file for styling the simulation interface.</li>
-  <li><b>main.js</b: The JavaScript file containing the implementation of the queue data structure and interaction logic.</li>
+  <li><b>font.css</b>: The CSS file contains local fonts.</li>
+  <li><b>main.css</b>: The CSS file for styling the simulation interface.</li>
+  <li><b>main.js</b>: The JavaScript file containing the implementation of the queue data structure and interaction logic.</li>
 </ul>
 
 <h2>Contributions</h2>
